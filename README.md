@@ -13,6 +13,8 @@
 
 
 ![1.png](/gambar2/1.png)
+![1.png](/gambar1/1.png)
+
 
 
 #### Syntax pada latihan1
