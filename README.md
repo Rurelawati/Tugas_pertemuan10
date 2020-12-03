@@ -12,7 +12,7 @@
 	return "".join(set(s))
 
 
-![1.png](/gambar_latihan/1.png)
+![1.png](/gambar2/1.png)
 
 
 #### Syntax pada latihan1
@@ -49,7 +49,7 @@
 
 #### Output pada latihan1
 
-![2.png](/gambar_latihan/2.png)
+![2.png](/gambar2/2.png)
 
 
 ### Tugas Praktikum
@@ -63,11 +63,11 @@
 	• Buat flowchart dan penjelasan programnya pada README.md.
 	• Commit dan push repository ke github.
 
-![1.png](/gambar_lab6&7/1.png)
+![1.png](/gambar1/1.png)
 
-![2.png](/gambar_lab6&7/2.png)
+![2.png](/gambar1/2.png)
 
-![3.png](/gambar_lab6&7/3.png)
+![3.png](/gambar1/3.png)
 
 #### Syntax Tugas Praktikum
 
@@ -177,23 +177,23 @@
 
 Ouput untuk Lihat Data
 
-![O1.png](/gambar_lab6&7/O1.png)
+![4.png](/gambar1/4.png)
 
 Ouput untuk Tambah Data
 
-![O2.png](/gambar_6&7/O2.png)
+![5.png](/gambar1/5.png)
 
 Ouput untuk Ubah Data
 
-![O3.png](/gambar_6&7/O3.png)
+![6.png](/gambar1/6.png)
 
 Output untuk Hapus Data
 
-![O4.png](/gambar_6&7/O4.png)
+![7.png](/gambar1/7.png)
 
 Output untuk Keluar Aplikasi
 
-![O5.png](/gambar_6&7/O5.png)
+![8.png](/gambar1/8.png)
 
 
 
